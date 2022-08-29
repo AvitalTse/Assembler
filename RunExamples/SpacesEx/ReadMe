@@ -1,0 +1,2 @@
+In this example there are white spaces in the original file , the assembler knows to ignore those sapces and approach the code only ,
+the assembly file includes extern entry and macros so we can see the am,ob,ex,ent all created succefully.
