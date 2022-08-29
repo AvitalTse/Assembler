@@ -1,0 +1,2 @@
+In this case , if the user types a file that is not exists , the assembler not creating any files , and prints an error messege
+to the stdout , to the screen.
