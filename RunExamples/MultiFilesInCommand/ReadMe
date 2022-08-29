@@ -1,0 +1,2 @@
+In thid example, there is only one file that exists and it is ex3.as , so for all files in command line that dont exist the assembler
+prints an error messege and for the file that does exists it creates the external files as it should do.
