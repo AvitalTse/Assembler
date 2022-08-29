@@ -1,0 +1,1 @@
+In this example there are only entry directive  , no extern , with no error in file (empty line is ignored) so the file that were created are am,ob and entry only.
